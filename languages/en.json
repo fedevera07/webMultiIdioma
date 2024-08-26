@@ -1,0 +1,14 @@
+{
+    "header": {
+        "about-me":"About me",
+        "experience": "Experience"
+    },
+    "about-me": {
+        "title": "About me",
+        "text":"My name is Federico Vera. I am a graduate electronics technician with self-taught programming skills and a commitment to continuous learning. I always strive to give my best, whether in work, study, or sports. I excel in quickly adapting to any team environment."
+    },
+    "experience": {
+        "title": "Experience",
+        "text": "I currently work as an independent professional, offering specialized services since I ended my employment relationship with my last employer. During this period, I have had the opportunity to collaborate on various projects that have enriched my skills and expanded my experience in the Programming area."
+    }
+}

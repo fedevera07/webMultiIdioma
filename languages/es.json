@@ -1,0 +1,14 @@
+{
+    "header": {
+        "about-me":"Sobre mi",
+        "experience": "Experiencia"
+    },
+    "about-me": {
+        "title": "Sobre mi",
+        "text":"Mi nombre es Federico Vera. Soy técnico graduado en electrónica con habilidades de programación autodidacta y compromiso con el aprendizaje continuo. Siempre me esfuerzo por dar lo mejor de mí, ya sea en el trabajo, estudio o deporte. Me destaco en adaptarme rápidamente a cualquier entorno de equipo."
+    },
+    "experience": {
+        "title": "Experiencia",
+        "text": "Actualmente me desempeño como profesional independiente, ofreciendo servicios especializados desde que finalicé mi relación laboral con mi último empleador. Durante este período, he tenido la oportunidad de colaborar en diversos proyectos que han enriquecido mis habilidades y ampliado mi experiencia en el area de Programacion."
+    }
+}
